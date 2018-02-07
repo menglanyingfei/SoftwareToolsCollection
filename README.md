@@ -10,6 +10,7 @@
  
   <li>科学上网</li>
   <li>JavaWeb相关CHM文件集合</li>
+  <li>JavaWeb所需jar包集合</li>
 </ol>
 
 
