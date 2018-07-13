@@ -10,7 +10,8 @@
   <br>18.7.13 更新: PanDownload软件下载安装即用(无需配置, 非常方便!)
  
   <li>科学上网</li>
-  <li>JavaWeb相关CHM文件集合</li>
+  <br>新增Chrome扩展(本地硬盘导入), 注册使用, 访问Google, 速度不错!
+  <li>JavaWeb相关CHM文件集合</li>
   <li>JavaWeb所需jar包集合</li>
   <li>保护眼睛</li>
   官网: http://www.huyanbao.com/
